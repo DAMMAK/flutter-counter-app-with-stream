@@ -1,6 +1,8 @@
-# stream_demo
+# Flutter Counter App with Stream
 
-A new Flutter application.
+A demo application of Flutter counter boilerplate using Stream, at default flutter counter boilerplate comes with SetState Implementation, but setState has it own disadvantage, it rebuild the own widget and every children which affect the performance in a bad way, But using Stream, Streambuilder you only update a single widget not the whole widget. I created this demo application to show how to use Stream, StreamController and StreamBuilder
+
+![20191128100054_1_.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1574931810668/ieT2q3Kg2.gif)
 
 ## Getting Started
 
